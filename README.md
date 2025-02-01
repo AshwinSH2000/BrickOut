@@ -1,6 +1,6 @@
 Hi, 
 
-This is a project that my friend Shamanth and I had made for our class 12 computer science project between 2016-2018. 
+This is a project that my friend Shamanth and I had made for our class 12 computer science project between 2016-2018. <br /> 
 We have fondly called it 'BrickOut.'
 It is a simple game that resembles the Atari Breakout developed by Atari Inc. in the year 1976. 
 We had utilised the graphics library of C++ extensively to implement the game. 
